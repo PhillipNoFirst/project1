@@ -1,0 +1,7 @@
+git init
+git remote add origin https://github.com/ваш_логин/репозиторий.git
+git add .  
+git commit -m "Результаты сессии 1"
+git branch "Сессия 1"
+git checkout "Сессия 1"
+git push -u origin "Сессия 1"
