@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --add-data "autorization.ui;." --add-data "workspace.ui;." prog.py
